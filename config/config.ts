@@ -76,7 +76,7 @@ export default defineConfig({
             apps: [
                 {
                     name: 'alpha',
-                    entry: '//micro-main.vercel.app:7081',
+                    entry: '//micro-alpha.vercel.app:7081',
                 },
                 // {
                 //   name: 'avatar-gen',
