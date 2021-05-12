@@ -76,7 +76,7 @@ export default defineConfig({
             apps: [
                 {
                     name: 'alpha',
-                    entry: '//localhost:7081',
+                    entry: '//micro-main.vercel.app:7081',
                 },
                 // {
                 //   name: 'avatar-gen',
@@ -84,11 +84,11 @@ export default defineConfig({
                 // },
                 {
                   name: 'Liao',
-                  entry: '//localhost:7083',
+                  entry: '//micro-main.vercel.app:7083',
                 },
                 {
                   name: 'PPTist',
-                  entry: '//localhost:7084',
+                  entry: '//micro-main.vercel.app:7084',
                 },
             ],
         },
