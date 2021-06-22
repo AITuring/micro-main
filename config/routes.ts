@@ -20,12 +20,13 @@
         path: '/alpha',
         microApp: 'alpha',
     },
-    {
-      name: 'avatar-gen',
-      icon: 'IdcardTwoTone',
-      path: '/avatar-gen',
-      microApp: 'avatar-gen',
-    },
+//    没有子应用，没用了
+//     {
+//       name: 'avatar-gen',
+//       icon: 'IdcardTwoTone',
+//       path: '/avatar-gen',
+//       microApp: 'avatar-gen',
+//     },
     {
       name: 'Liao',
       icon: 'CompassTwoTone',
