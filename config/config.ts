@@ -88,7 +88,7 @@ export default defineConfig({
                 },
                 {
                   name: 'PPTist',
-                  entry: '//micro-main.vercel.app:7084',
+                  entry: 'https://micro-ppt-ist.vercel.app/',
                 },
             ],
         },
