@@ -30,7 +30,7 @@
     name: 'shi',
     icon: 'TrophyTwoTone',
     path: '/shi',
-    microApp: 'Liaoshi',
+    microApp: 'shi',
   },
   {
     name: 'PPTist',
