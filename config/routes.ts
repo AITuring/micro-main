@@ -45,6 +45,12 @@
     component: './Welcome',
   },
   {
+    path: '/jsplumb',
+    name: 'jsplumb',
+    icon: 'ApiTwoTone',
+    component: './Jsplumb',
+  },
+  {
     path: '/admin',
     name: 'admin',
     icon: 'CrownTwoTone',

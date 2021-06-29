@@ -106,6 +106,10 @@ export default defineConfig({
           name: 'shi',
           entry: 'https://shi.vercel.app/',
         },
+        {
+          name: 'jsplumb',
+          entry: 'https://todo',
+        },
       ],
     },
   },
