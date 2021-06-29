@@ -1,18 +1,7 @@
 ﻿export default [
   {
-    path: '/user',
-    routes: [
-      {
-        path: '/user',
-        routes: [
-          {
-            name: 'login',
-            path: '/user/login',
-            component: './user/Login',
-          },
-        ],
-      },
-    ],
+    path: '/',
+    redirect: '/welcome',
   },
   {
     name: 'alpha',

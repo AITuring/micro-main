@@ -100,7 +100,7 @@ export default defineConfig({
         },
         {
           name: 'PPTist',
-          entry: 'https://micro-ppt-ist.vercel.app/',
+          entry: 'https://ppt-ist.vercel.app/',
         },
         {
           name: 'shi',
