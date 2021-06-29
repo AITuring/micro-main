@@ -39,16 +39,16 @@
     microApp: 'PPTist',
   },
   {
+    path: '/jsplumb',
+    name: 'jsplumb',
+    icon: 'ApiTwoTone',
+    microApp: 'jsplumb',
+  },
+  {
     path: '/welcome',
     name: 'welcome',
     icon: 'FlagTwoTone',
     component: './Welcome',
-  },
-  {
-    path: '/jsplumb',
-    name: 'jsplumb',
-    icon: 'ApiTwoTone',
-    component: './Jsplumb',
   },
   {
     path: '/admin',
