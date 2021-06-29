@@ -34,3 +34,4 @@ vue2 子应用，工作项目子应用使用 jsplumb 库后，接入主应用会
 - [ ] micro-alpha 子应用新页面打开其他页面，会跳到主应用同路由页面
 - [ ] 主子应用打包有点大，性能也得好好优化
 - [ ] jsplumb 里面 jsplumb 库会用到 window，子应用的 window 打印出来是 proxy，会报错
+- [ ] 等晚上验证 pptist 可以运行时，删除 micro-ppt 代码库
