@@ -108,7 +108,7 @@ export default defineConfig({
         },
         {
           name: 'jsplumb',
-          entry: 'https://todo',
+          entry: 'https://vue-jsplumb-editor.vercel.app/',
         },
       ],
     },
